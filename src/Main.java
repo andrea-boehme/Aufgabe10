@@ -1,3 +1,10 @@
+/**
+ * main method creates two vectors with given parameters,
+ * calls add and subtract calculation methods (calculates third point with first and second point),
+ * also calls scalar, cross product and length calculation methods
+ * prints out the results
+ * @param args
+ */
 public class Main {
     public static void main(String[] args) {
 
@@ -18,7 +25,7 @@ public class Main {
 
         System.out.println("scalar: " + scalar);
         System.out.println("cross product: " + cross);
-
+        System.out.println("length: " + length);
 
     }
 }

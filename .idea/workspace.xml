@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f447331-70a3-49c5-a6e1-6a7f2807824c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aufgabe10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/VectorTest.java" afterDir="false" />
+    <list default="true" id="3f447331-70a3-49c5-a6e1-6a7f2807824c" name="Changes" comment="lösung Aufgabe10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,11 +126,24 @@
       <option name="presentableId" value="Default" />
       <updated>1678710617604</updated>
       <workItem from="1678710619064" duration="7581000" />
-      <workItem from="1678739167770" duration="1153000" />
+      <workItem from="1678739167770" duration="1285000" />
+      <workItem from="1678745034443" duration="1432000" />
     </task>
+    <task id="LOCAL-00001" summary="lösung Aufgabe10">
+      <created>1678744933920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678744933920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lösung Aufgabe10" />
+    <option name="LAST_COMMIT_MESSAGE" value="lösung Aufgabe10" />
   </component>
 </project>
